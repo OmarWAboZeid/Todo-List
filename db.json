@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Play tennis",
+      "day": "Monday @ 2PM",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "GYM",
+      "day": "Wednesday 1PM",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Study",
+      "day": "Sunday @ 4PM",
+      "reminder": false,
+      "id": 7
+    }
+  ]
+}
